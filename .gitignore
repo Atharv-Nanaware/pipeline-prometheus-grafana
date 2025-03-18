@@ -1,0 +1,14 @@
+
+.venv
+.idea
+
+
+dependencies.zip
+requirements.txt
+run_commands.txt
+logs
+
+
+.env
+
+
